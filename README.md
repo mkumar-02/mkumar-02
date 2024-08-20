@@ -2,7 +2,7 @@
 Hey there!, I'm Manoj 👨‍💻
 </h1>
 
-<!-- ![](https://komarev.com/ghpvc/?username=mkumar-02&abbreviated=true) -->
+![](https://komarev.com/ghpvc/?username=mkumar-02&abbreviated=true) 
 
 <h3>My Stats</h3>
 
